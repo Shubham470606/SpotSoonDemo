@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music-SpotSoonDemo</string>
+    <string name="crash_text">SpotSoonDemo has been crashed,Please send us mail</string>
+
+</resources>
